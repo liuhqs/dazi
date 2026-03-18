@@ -1,4 +1,4 @@
-# dazi
+# 打字练习网站 - 巧手打字通
 [巧手打字通](https://laidazi.com)是一款专业的在线打字学习平台【网址：laidazi.com】，以精准测试、高效练习、趣味提升为核心，为不同人群提供全方位的打字学习、练习与竞技服务，覆盖打字入门到高阶提升全流程，同时配套丰富的教程和社区功能。
 
 <img width="1691" height="1329" alt="巧手打字通" src="https://github.com/user-attachments/assets/7c0a319a-d9e2-42ae-887f-b5b38f8e3a8b" />

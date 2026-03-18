@@ -1,4 +1,4 @@
-# dazi
+# Learn Touch Typing - LaiDaZi.com
 [laidazi](https://laidazi.com) is a professional online typing learning platform [Website: laidazi.com]. Centered on **accurate testing, efficient practice, and fun improvement**, it provides all‑round typing learning, practice, and competition services for diverse users, covering the entire process from beginner to advanced typing. It also includes rich tutorials and community features.
 
 <img width="1691" height="1329" alt="Qiaoshou Typing Tutor" src="https://github.com/user-attachments/assets/7c0a319a-d9e2-42ae-887f-b5b38f8e3a8b" />
